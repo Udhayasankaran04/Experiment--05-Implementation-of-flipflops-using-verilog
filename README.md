@@ -112,6 +112,7 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: UDHAYA SANKARAN M
 RegisterNumber: 212222110051
 */
+
 ## SR FLIP FLOPS:
 ```
 module flipflop(S,R,Q,Qbar,CLK);
